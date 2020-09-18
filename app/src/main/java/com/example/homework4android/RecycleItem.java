@@ -10,6 +10,7 @@ public class RecycleItem {
     public RecycleItem(String text) {
         this.text = text;
     }
+
     public String getText() {
         return text;
     }
